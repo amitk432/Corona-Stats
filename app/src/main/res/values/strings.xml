@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Corona</string>
+    <string name="region">region</string>
+    <string name="activeCases">activeCases</string>
+    <string name="recovered">recovered</string>
+    <string name="deceased">deceased</string>
+    <string name="totalInfected">totalInfected</string>
+    <string name="newDeceased">newDeceased</string>
+    <string name="newRecovered">newRecovered</string>
+    <string name="newInfected">newInfected</string>
+    <string name="corona_stats">Corona Stats</string>
+
+
+    <string name="regionb">Region: </string>
+    <string name="activeCasesb">Active Cases: </string>
+    <string name="recoveredb">Recovered: </string>
+    <string name="deceasedb">Deceased: </string>
+    <string name="totalInfectedb">Total Infected: </string>
+    <string name="newDeceasedb">New Deceased: </string>
+    <string name="newRecoveredb">New Recovered: </string>
+    <string name="newInfectedb">New Infected: </string>
+
+
+</resources>
